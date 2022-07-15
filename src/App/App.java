@@ -204,7 +204,7 @@ public class App {
            
 			}// end switch
 
-		} while (key > 0 && key < 7);
+		} while (key > 0 && key < 8);
 	}
 
 }
